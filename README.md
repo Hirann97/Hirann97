@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hirann97
-- 👀 I’m interested in data analystics
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
