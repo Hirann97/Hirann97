@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Hirann97
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi Thre i'm  Hiran ✌️
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Hirann97&show_icons=true&theme=radical" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirann97&layout=compact)](https://github.com/Hirann97/github-readme-stats)" />
 
-<!---
-Hirann97/Hirann97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img align="left" alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
