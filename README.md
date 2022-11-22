@@ -1,4 +1,4 @@
-# Hi Thre i'm  Hiran ✌️
+# Hi Thre i'm  Hiran ✌️🙌
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Hirann97&show_icons=true&theme=radical" />
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirann97&layout=compact)](https://github.com/Hirann97/github-readme-stats)" />
 
