@@ -1,5 +1,5 @@
 # Hi Thre i'm  Hiran ✌️
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Hirann97&show_icons=true&theme=radical" />
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Hirann97&show_icons=true&theme=tokyonight" />
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirann97&layout=compact)](https://github.com/Hirann97/github-readme-stats)" />
 
 <img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
