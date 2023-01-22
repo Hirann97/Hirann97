@@ -6,5 +6,5 @@
 <img align="left" alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-![counter](https://[Hirann97].m.pipedream.net)
-![Profile views](https://gpvc.arturio.dev/[Hirann97])
+
+![](https://komarev.com/ghpvc/?username=Hirann97&style=flat-square)
