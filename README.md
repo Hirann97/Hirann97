@@ -1,6 +1,6 @@
 # Hi Thre i'm  Hiran ✌️
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Hirann97&show_icons=true&theme=dark" />
-<img align="left" width=40% src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Hirann97&hide_progress=true)" />
+<img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirann97&hide_progress=true" />
 
 
 
